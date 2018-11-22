@@ -1,0 +1,7 @@
+public class Man
+{
+public void man1()
+{
+system.out.println("haiiii");
+}
+}
