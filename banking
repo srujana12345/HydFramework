@@ -1,0 +1,7 @@
+public class Banking
+{
+public Wish()
+{
+system.out.println("hi");
+}
+}
